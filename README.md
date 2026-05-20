@@ -37,7 +37,7 @@ python tracker.py
 
 
 
-Usage :
+📸 **Usage**
 
 1) Start the bot on Telegram and send a product URL (e.g., https://example.com/product/123).
 
